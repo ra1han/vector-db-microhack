@@ -1,0 +1,12 @@
+name: microhack
+channels:
+  - anaconda
+  - microsoft
+  - defaults
+dependencies:
+  - python=3.10
+  - azure-search-documents=2024.03.01
+  - python-dotenv
+  - ipykernel=6.25
+  - pandas
+  - openai=1.9
