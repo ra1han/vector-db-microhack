@@ -1,4 +1,4 @@
-name: microhack
+name: microhack2
 channels:
   - anaconda
   - microsoft
@@ -10,3 +10,5 @@ dependencies:
   - ipykernel=6.25
   - pandas
   - openai=1.9
+  - matplotlib
+  - pillow
